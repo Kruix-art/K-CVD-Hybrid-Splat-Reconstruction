@@ -10,7 +10,7 @@ Install the required dependencies:
 
 pip install opencv-python numpy kivy
 
-HOW TO RUN THE APPILCATION
+HOW TO RUN THE APPLICATION
 
 
 Android Setup (Pydroid 3)
