@@ -4,7 +4,7 @@ Python 3.10 or newer
 OpenCV (cv2)
 NumPy
 Kivy
-Desktop Setup
+------ANDROID ONLY-------
 
 Install the required dependencies:
 
@@ -17,7 +17,7 @@ Android Setup (Pydroid 3)
 Install the following from the Play Store:
 Pydroid 3
 Pydroid Repository Plugin
-OpenCV Plugin for Pydroid
+OpenCV Plugin for Pydroid 
 Install dependencies in the Pydroid terminal:
 pip install numpy kivy
 Grant required permissions:
